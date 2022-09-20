@@ -23,6 +23,18 @@
       "password": "$2a$10$8S.5BsE3IWhqZ.kxdBz1uOxMN6GNReVRaNMQEo0Y5LOhVFMNmIGM2",
       "name": "test",
       "id": 4
+    },
+    {
+      "email": "mamunurr88@gmail.com",
+      "password": "$2a$10$eNn9.rEcbOtC3Xr8WEaRtuPpo/AF.dF6AyVNB8Z.OM4ImyhwhjKx2",
+      "name": "Mamunur Rashid",
+      "id": 5
+    },
+    {
+      "email": "mamunurr893@gmail.com",
+      "password": "$2a$10$nuUXLLy2Mq3JTf58QeWVYuNzn72YQmnPSC4UhNtrMcdfeuDXQhP52",
+      "name": "Mamunur Rashid",
+      "id": 6
     }
   ],
   "conversations": [
