@@ -5,6 +5,24 @@
       "password": "$2a$10$2Drfo69o8e9mu4OYN8x/oeJitUl1ydambqlPJqjqfWigoFU/Rz.aq",
       "name": "Mamunur Rashid",
       "id": 1
+    },
+    {
+      "email": "mamun1@gmail.com",
+      "password": "$2a$10$wFCwPgNhmwrr0ZozbO6lFuA8dJW9N/EilGl5hREMvV6cjtnDgnvKe",
+      "name": "Mamunur Rashid",
+      "id": 2
+    },
+    {
+      "email": "mamunurr8893@gmail.com",
+      "password": "$2a$10$14AfYZk870qqboI3dHWQPeT3ZFE8ZnzJHf15vnbdhXtdJMlg27Jj.",
+      "name": "Mamunur Rashid",
+      "id": 3
+    },
+    {
+      "email": "test@bank10.africa",
+      "password": "$2a$10$8S.5BsE3IWhqZ.kxdBz1uOxMN6GNReVRaNMQEo0Y5LOhVFMNmIGM2",
+      "name": "test",
+      "id": 4
     }
   ],
   "conversations": [
