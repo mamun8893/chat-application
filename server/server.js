@@ -1,6 +1,5 @@
 const auth = require("json-server-auth");
 const jsonServer = require("json-server");
-const { rewriter } = require("json-server-auth/dist/guards");
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
@@ -13,9 +12,9 @@ server.db = router.db;
 server.use(middlewares);
 
 const rules = auth.rewriter({
-  users: 640,
-  conversations: 660,
-  messages: 660,
+    users: 640,
+    conversations: 660,
+    messages: 660,
 });
 
 server.use(rules);

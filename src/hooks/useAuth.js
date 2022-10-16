@@ -1,12 +1,11 @@
 import { useSelector } from "react-redux";
 
-const useAuth = () => {
-  const auth = useSelector((state) => state.auth);
-  if (auth?.accessToken && auth?.user) {
-    return true;
-  } else {
-    return false;
-  }
-};
+export default function useAuth() {
+    const auth = useSelector((state) => state.auth);
 
-export default useAuth;
+    if (auth?.accessToken && auth?.user) {
+        return true;
+    } else {
+        return false;
+    }
+}
