@@ -35,8 +35,8 @@
           "id": 2
         }
       ],
-      "message": "hi redux",
-      "timestamp": 1666032779876,
+      "message": "redux",
+      "timestamp": 1666116846310,
       "id": 1
     }
   ],
@@ -176,6 +176,57 @@
       "message": "hi redux",
       "timestamp": 1666032779876,
       "id": 8
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "saad@learnwithsumit.com",
+        "name": "saad",
+        "id": 3
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$0NlotMCSopBteMLejf8i0uqJSNMb.uRXIMi94zCAswG7K1wKInG1a",
+        "name": "Akash",
+        "id": 2
+      },
+      "message": "hi",
+      "timestamp": 1666114116104,
+      "id": 9
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "saad@learnwithsumit.com",
+        "name": "saad",
+        "id": 3
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$0NlotMCSopBteMLejf8i0uqJSNMb.uRXIMi94zCAswG7K1wKInG1a",
+        "name": "Akash",
+        "id": 2
+      },
+      "message": "hello",
+      "timestamp": 1666116705180,
+      "id": 10
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "saad@learnwithsumit.com",
+        "name": "saad",
+        "id": 3
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$0NlotMCSopBteMLejf8i0uqJSNMb.uRXIMi94zCAswG7K1wKInG1a",
+        "name": "Akash",
+        "id": 2
+      },
+      "message": "redux",
+      "timestamp": 1666116846310,
+      "id": 11
     }
   ]
 }
